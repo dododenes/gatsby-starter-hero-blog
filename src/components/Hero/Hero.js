@@ -63,6 +63,31 @@ const Hero = props => {
             }
           }
         }
+        
+        h3 {
+          text-align: center;
+          font-size: ${theme.hero.h3.size};
+          margin: ${theme.space.stack.l};
+          color: ${theme.hero.h3.color};
+          line-height: ${theme.hero.h3.lineHeight};
+          text-remove-gap: both 0 "Open Sans";
+
+          :global(strong) {
+            position: relative;
+
+            &::after,
+            &::before {
+              content: "›";
+              color: ${theme.text.color.attention};
+              margin: 0 ${theme.space.xs} 0 0;
+              text-shadow: 0 0 ${theme.space.s} ${theme.color.neutral.gray.k};
+            }
+            &::after {
+              content: "‹";
+              margin: 0 0 0 ${theme.space.xs};
+            }
+          }
+        }
 
         button {
           background: ${theme.background.color.brand};
