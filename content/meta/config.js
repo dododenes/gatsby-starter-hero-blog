@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: "Dodo's Blog", // <title>
-  shortSiteTitle: "Dodo's Blog", // <title> ending for posts and pages
-  siteDescription: "Dodo's Blog - stuff that has caught my interest",
+  siteTitle: "DodoBlog", // <title>
+  shortSiteTitle: "DodoBlog", // <title> ending for posts and pages
+  siteDescription: "DodoBlog - A bit of everything.",
   siteUrl: "https://wonderful-beaver-1d5901.netlify.com/",
   // pathPrefix: "",
   siteImage: "previewtest.png",
