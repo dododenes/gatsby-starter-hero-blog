@@ -9,8 +9,13 @@ const Hero = props => {
   return (
     <React.Fragment>
       <section className="hero">
+        <h3>
+          Hello friend!
+          <br/>
+          Thank your for visiting.
+        </h3>
         <h1>
-          This is a demo site of&nbsp;the <strong>heroBlog</strong> GatsbyJS starter
+          You are at <strong>DodoBlog</strong> my first personal website.
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
