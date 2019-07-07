@@ -1,23 +1,23 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "Dodo's Blog", // <title>
+  shortSiteTitle: "Dodo's Blog", // <title> ending for posts and pages
+  siteDescription: "Dodo's Blog - stuff that has caught my interest",
+  siteUrl: "https://wonderful-beaver-1d5901.netlify.com/",
   // pathPrefix: "",
-  siteImage: "preview.jpg",
+  siteImage: "previewtest.png",
   siteLanguage: "en",
 
   /* author */
-  authorName: "greg lobinski",
+  authorName: "dorottya denes",
   authorTwitterAccount: "greglobinski",
 
   /* info */
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "DodoBlog",
+  headerSubTitle: "A bit of everything.",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "DodoBlog - A bit of everything.",
+  manifestShortName: "DodoBlog", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
@@ -32,8 +32,8 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
+    { name: "github", url: "https://github.com/dododenes" },
     { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "facebook", url: "https://www.facebook.com/dorottya.denes.543" }
   ]
 };
