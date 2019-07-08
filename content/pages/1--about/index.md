@@ -2,26 +2,19 @@
 title: Manifesto
 ---
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+(Under Construction...)
 
-### Features:
+I have a lot of reasons for creating this blog. I think it is useful for me to state some of these as some kind of 
+manifesto as well as it is helpful for the reader to get a feel for what they can expect.
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **CSS** with `styled-jsx` and `PostCSS`
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (category based post list)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* 100% **PWA** (manifest.webmanifest, offline support, favicons)
-* Google **Analytics**
-* App **favicons** generator (node script)
-* Easy customizable base **styles** via `theme` object generated from `yaml` file (fonts, colors, sizes)
-* React **v.16** (gatsby-plugin-react-next)
-* **Components** lazy loading (social sharing)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Webpack `BundleAnalyzerPlugin`
+### 4 points:
+
+* Summarizing my learning journey about **AI**, **ML** and mostly **Neural Networks**.
+* Sharing **code snippets** and **solutions** to exercises related to the material I study.
+* Possibly creating introductory material to web design and how to set up your own blog using 
+template (featuring `HTML`,`CSS`,`Javascript`, `React` and friends).
+* Possibly creating introductory material to programming languages that I 
+employ in my solutions such us `Python` and `R`.
+
+
+
