@@ -12,7 +12,7 @@ const Hero = props => {
         <h3>
           Hello friend!
           <br/>
-          Thank your for visiting.
+          Thank you for visiting.
         </h3>
         <h1>
           You are at <strong>DodoBlog</strong> my first personal website.
