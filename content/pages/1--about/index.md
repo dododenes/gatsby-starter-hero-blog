@@ -14,6 +14,6 @@ manifesto as well as it is helpful for the reader to get a feel for what they ca
 * Possibly creating **introductory** material to **web design** and how to **set up** your own **blog** using e.g. [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog).
 template (featuring `HTML`,`CSS`,`Javascript`, `React` and friends).
 * Possibly creating **introductory material to programming** languages that I 
-employ in my solutions such us `Python` and `R`.
+employ in my solutions such as `Python` and `R`.
 * The Ubiquitous **Food Posts**.
 

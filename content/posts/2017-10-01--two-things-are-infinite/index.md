@@ -1,8 +1,8 @@
 ---
-title: Two things are infinite the universe and human stupidity
-category: "sayings"
-cover: photo-1490474418585-ba9bad8fd0ea.jpg
-author: greg lobinski
+title: Coursera: Machine Learning by Andrew Ng - Week 1 (Summary)
+category: "machine learning", "coursera", "Andrew Ng"
+cover: large-icon.png
+author: Dodo Denes
 ---
 
 Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:
