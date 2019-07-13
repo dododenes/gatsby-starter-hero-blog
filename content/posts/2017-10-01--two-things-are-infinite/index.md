@@ -1,6 +1,6 @@
 ---
 title: Machine Learning by Andrew Ng - Week 1 (Summary)
-category: "machine learning", "coursera", "Andrew Ng"
+category: "machinelearning coursera"
 cover: large-icon.png
 author: Dodo Denes
 ---
