@@ -26,7 +26,8 @@ class Menu extends React.Component {
       { to: "/", label: "Home", icon: FaHome },
       { to: "/category/", label: "Categories", icon: FaTag },
       { to: "/search/", label: "Search", icon: FaSearch },
-      ...pages,
+      // ...pages,
+      { to: "/about/", label: "About", icon: FaSearch },
       { to: "/contact/", label: "Contact", icon: FaEnvelope }
     ];
 
