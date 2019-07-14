@@ -1,5 +1,6 @@
 ---
 title: Manifesto
+menuTitle: About
 ---
 
 (Under Construction...)
