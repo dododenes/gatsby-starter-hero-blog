@@ -8,6 +8,8 @@ import Article from "../components/Article";
 import Post from "../components/Post";
 import { ThemeContext } from "../layouts";
 
+import "katex/dist/katex.min.css";
+
 const PostTemplate = props => {
   const {
     data: {
