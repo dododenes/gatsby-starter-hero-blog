@@ -98,7 +98,6 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          `gatsby-remark-mathjax`,
           `gatsby-plugin-sharp`,
           {
             resolve: `gatsby-remark-images`,
