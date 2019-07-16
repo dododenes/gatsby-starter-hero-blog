@@ -5,12 +5,7 @@ cover: large-icon.png
 author: Dorottya Denes
 ---
 
-****
 ## 1. What is Machine Learning?
-$$
-a^2 + b^2 = c^2
-$$
-
 
 There isn't a universally accepted definition of machine learning by its practitioners, hence multiple definitions are provided.
 
