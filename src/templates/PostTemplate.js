@@ -2,13 +2,13 @@ import PropTypes from "prop-types";
 import React from "react";
 import { graphql } from "gatsby";
 require("prismjs/themes/prism-okaidia.css");
-require(`katex/dist/katex.min.css`);
 
 import Seo from "../components/Seo";
 import Article from "../components/Article";
 import Post from "../components/Post";
 import { ThemeContext } from "../layouts";
 
+import "katex/dist/katex.min.css";
 
 const PostTemplate = props => {
   const {

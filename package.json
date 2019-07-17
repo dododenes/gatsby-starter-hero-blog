@@ -27,6 +27,7 @@
     "gatsby-remark-external-links": "^0.0.4",
     "gatsby-remark-images": "^2.0.1",
     "gatsby-remark-katex": "^3.1.2",
+    "gatsby-remark-mathjax": "^1.0.0",
     "gatsby-remark-prismjs": "^3.0.0",
     "gatsby-remark-responsive-iframe": "^2.0.5",
     "gatsby-remark-smartypants": "^2.0.5",
@@ -66,7 +67,8 @@
     "lint-errors": "eslint src/**/*.{js,jsx} --quiet",
     "lint": "eslint src/**/*.{js,jsx}",
     "stylelint": "stylelint src/**/*.js",
-    "generate-app-icons": "sh ./scripts/generate-app-icons.sh"
+    "generate-app-icons": "sh ./scripts/generate-app-icons.sh",
+    "now-build": "npm run build"
   },
   "devDependencies": {
     "@mapbox/stylelint-processor-arbitrary-tags": "^0.2.0",
