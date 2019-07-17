@@ -8,6 +8,7 @@ author: Dorottya Denes
 ## 1. What is Machine Learning?
 
 $a^2 + b^2 = c^2$
+
 There isn't a universally accepted definition of machine learning by its practitioners, hence multiple definitions are provided.
 
 In the 1950s, [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel) built a checkers program that learned by playing against itself for thousands of times. He coined the term 'machine learning' as 
