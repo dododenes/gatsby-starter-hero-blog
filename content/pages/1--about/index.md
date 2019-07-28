@@ -16,4 +16,3 @@ manifesto as well as it is helpful for the reader to get a feel for what they ca
 template (featuring `HTML`,`CSS`,`Javascript`, `React` and friends).
 * Possibly creating **introductory material to programming** languages that I 
 employ in my solutions such as `Python` and `R`.
-* The Ubiquitous **Food Posts**.
